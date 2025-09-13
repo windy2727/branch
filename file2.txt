@@ -1,2 +1,1 @@
-isi file1   # untuk file1.txt
-isi file2   # untuk file2.txt
+isi file2
